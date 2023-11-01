@@ -59,4 +59,29 @@ button:hover {
 
 
 }
+.head5
+{
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color:rgb(74, 74, 181);
+    
 
+
+}
+
+
+
+.head6
+{
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color:rgb(74, 74, 181);
+    flex-direction: row-reverse;
+    
+
+
+}
