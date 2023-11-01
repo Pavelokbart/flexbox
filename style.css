@@ -1,0 +1,30 @@
+
+button
+{
+    background: transparent; 
+    border: none; 
+    color: white;
+    padding: 20px;
+
+}
+button:hover {
+    background-color: #ffffff; /* Устанавливаем цвет фона при наведении */
+    color: rgb(74, 74, 181); /* Изменяем цвет текста при наведении */
+    border: 2px solid #100505;
+  }
+.head
+{
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(74, 74, 181);
+    color: white;
+    
+}
+.head2
+{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    background-color:rgb(74, 74, 181);
+}
